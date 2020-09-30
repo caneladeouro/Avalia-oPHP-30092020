@@ -1,0 +1,11 @@
+{
+  "name": "Avaliacao_30092020_17H51",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@prettier/plugin-php": "^0.14.3",
+    "prettier": "^2.1.2"
+  }
+}
